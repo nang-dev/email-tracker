@@ -1,0 +1,9 @@
+<project default = "compile">
+    <target name="clean">
+        <delete dir="build"/>
+    </target>
+
+    <target name="compile">
+        <javac srcdir="./" destdir="./" />
+    </target>
+</project>

@@ -47,6 +47,6 @@ On any device:
 Now when the receiver opens the email, you'll get a text letting you know that it was opened!
 
 
-
-
+## Chrome Extension
+If you want to track your emails, you can also use this free Chrome extension: https://chrome.google.com/webstore/detail/email-tracker/bnompdfnhdbgdaoanapncknhmckenfog
 
